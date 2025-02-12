@@ -1,0 +1,16 @@
+{
+  "name": "playwright-api-testing-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "api-test": "playwright test --config=playwright.config.js .tests/apiTest.spec.js --project chromium --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.1"
+  }
+}
