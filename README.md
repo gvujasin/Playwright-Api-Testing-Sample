@@ -10,7 +10,7 @@ A comprehensive API testing solution for [reqres.in](https://reqres.in) using Pl
 - **CRUD Operations Testing**: Full coverage of Create, Read, Update, Delete operations
 - **Authentication Testing**: Positive and negative login scenarios
 - **Parallel Test Execution**: Optimized test execution speed
-- **CI/CD Ready**: GitHub Actions integration support
+- **CI/CD Ready**: CircleCI integration support
 - **Response Validation**: Strict schema and status code validation
 - **Error Handling**: Comprehensive negative test scenarios
 
@@ -26,3 +26,13 @@ A comprehensive API testing solution for [reqres.in](https://reqres.in) using Pl
 ```bash
 git clone https://github.comgvujasin/Playwright-Api-Testing-Sample.git
 cd Playwright-Api-Testing-Sample
+```
+## Install dependencies:
+```bash
+npm install
+```
+
+## Running Tests
+```bash
+npm run api-test
+```
