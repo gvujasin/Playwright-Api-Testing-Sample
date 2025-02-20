@@ -24,7 +24,7 @@ A comprehensive API testing solution for [reqres.in](https://reqres.in) using Pl
 
 1. Clone the repository:
 ```bash
-git clone https://github.comgvujasin/Playwright-Api-Testing-Sample.git
+git clone https://github.com/gvujasin/Playwright-Api-Testing-Sample.git
 cd Playwright-Api-Testing-Sample
 ```
 ## Install dependencies:
